@@ -1,5 +1,18 @@
 # BayesianForceInference_GoogleColab
+Perform MAP estimation of junction tensions and cell pressures based on the force balance relationship at cell vertices.
 
+As presented in:
+*   Shuji Ishihara and Kaoru Sugimura.
+["Bayesian inference of force dynamics during morphogenesis."](https://www.sciencedirect.com/science/article/pii/S0022519312004316?via%3Dihub)
+Journal of Theoretical Biology 313, 201–211 (2012).
+
+*   S. Ishihara, K. Sugimura, S. J. Cox, I. Bonnet, Y. Bellaïche, F. Graner.
+["Comparative study of non-invasive force and stress inference methods in tissue."](https://link.springer.com/article/10.1140/epje/i2013-13045-8)
+The European Physical Journal E 36, 1–13 (2013).
+
+The Python code is available on [the GitHub page of Ishihara Lab](https://github.com/IshiharaLab/BayesianForceInference).
+
+This Google Colab Notebook was implemented by Xin Yan and Kaoru Sugimura.
 
 # How to Use
 Test sample:
