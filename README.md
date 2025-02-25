@@ -1,1 +1,1 @@
-# BayesianForceInferenceInGoogleColab
+# BayesianForceInference_GoogleColab
