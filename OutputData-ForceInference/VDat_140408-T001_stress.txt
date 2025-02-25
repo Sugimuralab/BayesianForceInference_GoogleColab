@@ -1,0 +1,4 @@
+Data: /content/drive/MyDrive/Code-to-Github/BFI-GoogleColab-202502/InputData-ForceInference/Vertex/VDat_140408-T001.dat
+Stress tensor: [[0.06851574 0.0035389 ]
+ [0.0035389  0.03222954]]
+sigma_xx - sigma_yy: 0.03628620373539099
