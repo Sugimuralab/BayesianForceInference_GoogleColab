@@ -10,9 +10,12 @@ Journal of Theoretical Biology 313, 201–211 (2012).
 ["Comparative study of non-invasive force and stress inference methods in tissue."](https://link.springer.com/article/10.1140/epje/i2013-13045-8)
 The European Physical Journal E 36, 1–13 (2013).
 
-The Python code is available on [the GitHub page of Ishihara Lab](https://github.com/IshiharaLab/BayesianForceInference).
+An input file can be obtained from a binary, skeletonized image using a Fiji/ImageJ plug-in, [“GetVertexPlugin”](https://github.com/Sugimuralab/GetVertexPlugin).
 
-This Google Colab Notebook was implemented by Xin Yan and Kaoru Sugimura.
+This Google Colab notebook was implemented by Xin Yan and Kaoru Sugimura. 
+
+The original Python code is available on [Ishihara Lab's GitHub page](https://github.com/IshiharaLab/BayesianForceInference).
+
 
 # How to Use
 Test sample:
