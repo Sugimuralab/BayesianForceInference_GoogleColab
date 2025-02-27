@@ -31,3 +31,6 @@ Your samples:
 5. Select the input file in step 3.
 6. Set an output directory of your choice in step 4.
 7. Select the directory that you put this notebook, BayesianForceInference.ipynb, as the current working directory in step 5.
+
+[Instruction](https://github.com/Sugimuralab/BayesianForceInference_GoogleColab/blob/main/docs/Instruction.pdf)
+
